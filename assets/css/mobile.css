@@ -12,6 +12,10 @@ width: 200px;
         margin: 0 auto;
     max-width: 350px;
     }
+    h1{
+    text-align: center;
+    margin: 150px 0px 0px 0px;
+}
 }
 
 
